@@ -1,0 +1,6 @@
+f = open("p16 file.py","r+")
+#a=f.write("Moyeen is not a good boy")
+#print(a)
+#f.close()
+print (f.read())
+f.write("Thank u")
